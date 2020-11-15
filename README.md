@@ -1,6 +1,9 @@
 # dps-lab-1
 Laboratory 1
 -----------------------------------------------------------------------------------------------------------------------------
+**This file contais the answers of the questions asked on the task.**
+
+**In the source code can be find some comments that answer or complete some answers to those questions mentioned above**
 
 
 	Steps to execute this code:
