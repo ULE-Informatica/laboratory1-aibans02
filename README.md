@@ -2,14 +2,15 @@
 Laboratory 1
 -----------------------------------------------------------------------------------------------------------------------------
 
-Steps to execute this code:
-	Suposing to be it the route ~/laboratory1-aibans02
-	1. CMake. This will generate all files needed (CMake tool installed its needed)
-		$ cmake ../laboratory1-aibans02/
-	2. Make. This will compile the code and return and executable file called 'P3'
-		$ make
-	3. Execute the code
-		$ ./P3
+
+	Steps to execute this code:
+		Suposing to be it the route ~/laboratory1-aibans02
+		1. CMake. This will generate all files needed (CMake tool installed its needed)
+			$ cmake ../laboratory1-aibans02/
+		2. Make. This will compile the code and return and executable file called 'P3'
+			$ make
+		3. Execute the code
+			$ ./P3
 
 ------------------------------------------------------------------------------------------------------------------------------
     1. Enumerate those Rules and Recommendation associated that are broken in the previous source code file.
@@ -53,6 +54,5 @@ Steps to execute this code:
         Adapt the process for using different compilation tools and parameters (gcc vs g++), -Wall, standards (-std=c99 and -std=c11) ...
         Compare between different two standards
 
-
-There are several variants. You should choose at least two.
-At the end the source code  should compile without warnings to the variant selected (you can remove/change instructions).
+	There are several variants. You should choose at least two.
+	At the end the source code  should compile without warnings to the variant selected (you can remove/change instructions).
